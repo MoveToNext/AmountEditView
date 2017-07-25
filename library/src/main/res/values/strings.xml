@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="betting_ulv_holder">请输入小于%1$d的整数</string>
+</resources>

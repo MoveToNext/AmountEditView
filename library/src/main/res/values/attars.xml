@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="VolumeView">
+        <attr name="viewHeight" format="dimension" />
+        <attr name="btnWidth" format="dimension" />
+        <attr name="editWidth" format="dimension" />
+        <attr name="editSize" format="dimension" />
+        <attr name="btnTextSize" format="dimension" />
+        <attr name="editTColor" format="color" />
+        <attr name="onTextChanged" format="boolean" />
+    </declare-styleable>
+
+</resources>
