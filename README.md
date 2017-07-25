@@ -4,9 +4,7 @@
 
 效果如下
 
-
-
-
+![](https://github.com/MoveToNext/AmountEditView/blob/master/WechatIMG10.jpeg)
 
 | 参考自定义属性 | 对应用途 |
 |------|:---:|
@@ -18,7 +16,7 @@
 | editTColor | 输入框文字颜色|
 | onTextChanged | 是否需要开启 onTextChanged 模式|
 
-###回调方法
+### 回调方法
 ```
 volumeView.setOnVolumeChangeListener(new VolumeView.OnVolumeChangeListener() {
             @Override
